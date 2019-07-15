@@ -1,2 +1,3 @@
-# firstapp
-my first app
+# FirstApp
+
+My First GIT App
