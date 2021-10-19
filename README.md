@@ -1,4 +1,3 @@
 # FirstApp
 
-My First GIT App
-  Modify for test
+My First GIT App Version 2
